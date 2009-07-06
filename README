@@ -1,0 +1,3 @@
+This is a small projects of useful additions I wanted to add to ruby-mysql while staying backward compatible.
+
+I was inspired a lot by Sequel and it must be kind of similar to ruby dbi.
